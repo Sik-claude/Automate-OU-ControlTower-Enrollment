@@ -1,4 +1,5 @@
-OU => Organizational Unit 
+OU => Organizational Unit
+
 CT => Control Tower
 
 Want to automate the OU Creation and enrollment in Control Tower Environment .... /?/?/?
